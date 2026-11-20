@@ -1,0 +1,356 @@
+{
+ "kind": "github",
+ "subdir": "",
+ "repo": "https://github.com/pachterlab/poseidon",
+ "commit": "5a139fed350bbf5d775ffa9650f465e557b6ccb0",
+ "tree": "c0fd19addff90e3c638ecd8f30b5bdb12c0d0ee7",
+ "commit_date": "2023-07-25T17:55:49Z",
+ "files": [
+  {
+   "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+   "bytes": 663,
+   "git_blob_sha": "fac6f677206af56d5d113f65d882682fec641432",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "c95d2a48afc1a8e4383851824a5bfe857385112f1b64ffb7985ae870edc0a78d"
+  },
+  {
+   "path": ".gitignore",
+   "bytes": 175,
+   "git_blob_sha": "3f805c15fe045f73917b6303038788a6fe867c06",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "978ceb50a44f6e48e81d161b86a5d659521a7e1e19607f0345d55b98b2f02f71"
+  },
+  {
+   "path": "HARDWARE/microscope/fusion360/poseidon_microscope_controller_station_v34.f3d",
+   "bytes": 15701480,
+   "git_blob_sha": "fb0a8d7562b55e28eac4fc7fc30de31993d986ba",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "fc833e80e20fa83ec35763cedf38e96f7f799b6174a081b49a5daf3b924dc1a3"
+  },
+  {
+   "path": "HARDWARE/microscope/iges/Scope Base.iges",
+   "bytes": 694737,
+   "git_blob_sha": "96953748471a6cf2c570ec0f4a716e2f97657207",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "b653faaf15cae54e5c8229a391f1b5a76b7d3735c30d15f9ee9f90783b69799e"
+  },
+  {
+   "path": "HARDWARE/microscope/iges/Scope Screen Leg Mount.iges",
+   "bytes": 292410,
+   "git_blob_sha": "3a565a9fbe93fe2e317ac13db4613bd7bd5fed57",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "ee163378e0e538088c6576494a82369fd7acdc6d6c5997c1ebda7adb65bd56bb"
+  },
+  {
+   "path": "HARDWARE/microscope/iges/Scope Top Stage.iges",
+   "bytes": 2071413,
+   "git_blob_sha": "169eb4afe6edc44e9a4347bd83f8d0e88a3ec92c",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "99d46472963a21387cf2d7b6ecca89bc3d4c59a71032d6bc24e4edbc69bac340"
+  },
+  {
+   "path": "HARDWARE/microscope/step/Scope Base.step",
+   "bytes": 392610,
+   "git_blob_sha": "b81db103977b8f90f616e4613e5cb55aac97dbcf",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "ecc727d51852c3c618859dc728d530546604743f5dacf0b02a154e72336f3597"
+  },
+  {
+   "path": "HARDWARE/microscope/step/Scope Screen Leg Mount.step",
+   "bytes": 148302,
+   "git_blob_sha": "0e7d68eb21febfec5d635dba55bb9f8ab22edd20",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "5c61888a9eff6677091489ec046ec9dc36ee064a0e556ef937af496121915bba"
+  },
+  {
+   "path": "HARDWARE/microscope/step/Scope Top Stage.step",
+   "bytes": 1438314,
+   "git_blob_sha": "18537feeaae13aad44ebe501af7b5dee88189344",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "0e800b9cb2a8ca5c80dacd0b14b0f7722c219ae7f366858ce99b5ee8861a441a"
+  },
+  {
+   "path": "HARDWARE/microscope/stl/Scope Base v33.stl",
+   "bytes": 225084,
+   "git_blob_sha": "a4a0b55651f88b7614e409e3eb8bedee6bbf306e",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "da06fd946e8b3cdf5836c33a2790db1cd7f59a99d5f8952ab2fee2a3e1e99a31"
+  },
+  {
+   "path": "HARDWARE/microscope/stl/Scope Screen Leg Mount v33.stl",
+   "bytes": 100684,
+   "git_blob_sha": "93b034cbe4f03c80c5c142734fd00b6fd3ce8a50",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "4b51cbf28223bd62509b5f544fdce542563b294df7400df541e52e8a7c0c6d81"
+  },
+  {
+   "path": "HARDWARE/microscope/stl/Scope Top Stage v33.stl",
+   "bytes": 424984,
+   "git_blob_sha": "01efc7e844bbd46fc161b232f16073522c135ad0",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "419e88c9c6594c8e3da699dce5b54915ce5d45e7600a3713e6873694fbc7145b"
+  },
+  {
+   "path": "HARDWARE/poseidon_bill-of-materials_v1.0_2019-01-28.xlsx",
+   "bytes": 8887,
+   "git_blob_sha": "424f549424424601327bae2ac0c1171d10f1a279",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "d907369454d3cc722c74db66e271d61f27bcacda882f457bded9dc85db13878c"
+  },
+  {
+   "path": "HARDWARE/pump/fusion360/poseidon_pump_v52.f3d",
+   "bytes": 13046355,
+   "git_blob_sha": "3c875d2b3134398195bd0c4bb096162fb2f58f86",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "e9b38d14d2ee15eeb19e7873eb20a43f4ce7bc24be82f7fd90f51572a1fe09ac"
+  },
+  {
+   "path": "HARDWARE/pump/iges/Pump Base.iges",
+   "bytes": 3200067,
+   "git_blob_sha": "e120971a26cf616ab760aef607166fed3db18176",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "7fb4353acc57d682fb3fc851a66f936ecaba63c7920655c9f31f3218e3562547"
+  },
+  {
+   "path": "HARDWARE/pump/iges/Pump Carriage.iges",
+   "bytes": 324891,
+   "git_blob_sha": "fb61b33c798506e50d4309da77f37d37ce86b2a1",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "990382b11dbc79ff1bcfd61347ce4149eac0ce4405dcad137b7fffd3bb6eb2a6"
+  },
+  {
+   "path": "HARDWARE/pump/iges/Pump Cover Slide.iges",
+   "bytes": 48357,
+   "git_blob_sha": "9363edb96c1a6fa7d1862a0507a886e5d00b4207",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "054992f5b7cd0fc3cd2f2f2ac8358b329708b7573a6ee154d9ddf128b1ff0402"
+  },
+  {
+   "path": "HARDWARE/pump/iges/Pump Syringe Brace.iges",
+   "bytes": 40824,
+   "git_blob_sha": "bf0c92322fad68c5009f5bb546e2a1ba1ecaad97",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "ffa127dfd22931f5b518b466a49dca91b4d35fa1361ead8dba37dd6b7868a60c"
+  },
+  {
+   "path": "HARDWARE/pump/step/Pump Base.step",
+   "bytes": 2006686,
+   "git_blob_sha": "f26e48c7e3a8402e386913b7ab15b60399c2501e",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "8c93638242aee174187e1569061a0ca0076d2072f913b4650c0397de8b94c674"
+  },
+  {
+   "path": "HARDWARE/pump/step/Pump Carriage.step",
+   "bytes": 147190,
+   "git_blob_sha": "558c1331a86704f6621a4b2b08317179c72a9cd8",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "fbfbf8e976e1dafe7db874f0c76309d4a402453450dafebe7eb478a7a44e2563"
+  },
+  {
+   "path": "HARDWARE/pump/step/Pump Cover Slide.step",
+   "bytes": 26195,
+   "git_blob_sha": "52def7de00a25d12fb88b4f9b6b5b8801f62b483",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "f276e43716385a168e781c5a383cabecc3a5385ea29711955d914786e96bd8c3"
+  },
+  {
+   "path": "HARDWARE/pump/step/Pump Syringe Brace.step",
+   "bytes": 24036,
+   "git_blob_sha": "667fbe69ac3dbb2a128b769c6f93ef832c2939b8",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "f28776ad250fbb860c1e43cd4259e0293607dc25936cef7f6a2ed39f8f2fd0c8"
+  },
+  {
+   "path": "HARDWARE/pump/stl/Pump Base v51.stl",
+   "bytes": 750884,
+   "git_blob_sha": "3e003a763e73e343938570aee69109809a5eada4",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "190f31212ed1d1ac62dcdcae16a9056f044d52ac2cc36a005a93014b2949ea56"
+  },
+  {
+   "path": "HARDWARE/pump/stl/Pump Carriage Sled v51.stl",
+   "bytes": 189384,
+   "git_blob_sha": "f6624f2cb1d7eee52c6c307fa556ba37164cd6cc",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "51e41033be62c80a04a3551e02158eb95f128512e59a978c4342f1ae41810ef3"
+  },
+  {
+   "path": "HARDWARE/pump/stl/Pump Cover Slide v51.stl",
+   "bytes": 8884,
+   "git_blob_sha": "092b3d4489ab6b2e3fd459e53609acffa59a3c53",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "3bdcfa29adfa512d313715a3b61585ef48aefa6f78b35e9ec12291035a5cbc3b"
+  },
+  {
+   "path": "HARDWARE/pump/stl/Pump Syringe Brace v51.stl",
+   "bytes": 26484,
+   "git_blob_sha": "0aebca67a929d150ca368f5bb90e40509273b3fb",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "dd97943d6ada3b6e51ad687d82a62c891d731bbbc4001d02a90c11421e5413d2"
+  },
+  {
+   "path": "LICENSE",
+   "bytes": 1316,
+   "git_blob_sha": "4fc2e0e1510063dbc7a1978601cc132fd1f66c63",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "5188559ecc761ecb869ed20b8eccce9cb43cb93b4afec9b62530b3f49b3af9b6"
+  },
+  {
+   "path": "README.MD",
+   "bytes": 15198,
+   "git_blob_sha": "47ecd0b643585c5bf478676c0e152e9a5822a920",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "008b0f789922e0ccfb6d7fc1b2e6794771cf7654808e2b4efaf91157de869d7c"
+  },
+  {
+   "path": "SOFTWARE/arduino_serialCOM_v0.1/arduino_serialCOM_v0.1.ino",
+   "bytes": 20198,
+   "git_blob_sha": "99ae6690ad25ab36955048c8d1a4adc38e92e1b5",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "8cab81ccc1945be1d419033ff216a3b76034b9002bd47aaa7825774e7422ce55"
+  },
+  {
+   "path": "SOFTWARE/poseidon_controller_gui.py",
+   "bytes": 45680,
+   "git_blob_sha": "956b57b39efbe3cd1baaddb965c689b7490f21a5",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "509b023f6a1f55a4e30fbf704072ad4038f4a86c5e4429bc107a5a99f3dfddcd"
+  },
+  {
+   "path": "SOFTWARE/poseidon_controller_gui.ui",
+   "bytes": 46832,
+   "git_blob_sha": "9856d767fd78e0304dfa5b636b4428a99fc2274a",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "2483a4e92029e30e540c5a1bcafafc9125abeb7fd2019dda924e5ca6eba0dccd"
+  },
+  {
+   "path": "SOFTWARE/poseidon_main.py",
+   "bytes": 48692,
+   "git_blob_sha": "7faac8c74002d1dad7a13be9db258b3f161abd42",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "7c5f327378dbc5e5c65afc1dbf4f9a93df3a939a0e068f5d4d74f3aca4fc74b1"
+  },
+  {
+   "path": "SOFTWARE/test_settings.txt",
+   "bytes": 489,
+   "git_blob_sha": "486477d631cf2eb3353d8d3cf4d2443ebf0e6244",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "376ee2032c923b16ba658bc0c1a3b7d8ee736e64dd79e31f6429333ecd6fc4c6"
+  },
+  {
+   "path": "TESTING/Speed & Position Analysis.xlsx",
+   "bytes": 10948,
+   "git_blob_sha": "823195b22ebc605be17c2bef844e301b185275b2",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "7563afa11e2cc9cd15db2b16eb528a6cf0a5ec359704972c849cdabefb53da3e"
+  },
+  {
+   "path": "TESTING/benchmark.ipynb",
+   "bytes": 392302,
+   "git_blob_sha": "e430330c849675fc8d7025c4252fba80985f661e",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "3f4eee4d8205becb51fdba2d09b6874e66efc177831ed447dbc7953371aa7c88"
+  },
+  {
+   "path": "TESTING/droplets/harvard/2_harvard.csv",
+   "bytes": 44489,
+   "git_blob_sha": "36911d401bdf18136c12d8051e50236874ae8596",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "01ce326e2a0d8885229a0dab8b50c7b277a5849c3aebe0aa5d6c615a57131b21"
+  },
+  {
+   "path": "TESTING/droplets/harvard/3_harvard.csv",
+   "bytes": 31757,
+   "git_blob_sha": "09ed5a8c36d998ffa57c401d7c50a95a028741be",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "8d47f6fc23b0f0550c8eb9769c1732e27076f474f7a9ad054d85617cbe74636b"
+  },
+  {
+   "path": "TESTING/droplets/harvard/6_harvard.csv",
+   "bytes": 44489,
+   "git_blob_sha": "36911d401bdf18136c12d8051e50236874ae8596",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "01ce326e2a0d8885229a0dab8b50c7b277a5849c3aebe0aa5d6c615a57131b21"
+  },
+  {
+   "path": "TESTING/droplets/harvard/harvard.txt",
+   "bytes": 136575,
+   "git_blob_sha": "18d7d74e0bb5f9b132b59f2aa2499edf44ecca8a",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "afd22606f6eddbc9be8d42eec238bb50644fa136042444d1257a65051c098720"
+  },
+  {
+   "path": "TESTING/droplets/poseidon/1_poseidon.csv",
+   "bytes": 31394,
+   "git_blob_sha": "52c3a4cd633423773d98187e51f3308abe7f86e5",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "46f6b468ed5dca5863b57357f7e298804c4000ba45d3bf437c9850e0503632cf"
+  },
+  {
+   "path": "TESTING/droplets/poseidon/4_poseidon.csv",
+   "bytes": 44515,
+   "git_blob_sha": "37eb8212047d4bf416d5ee7a28e7f63ae6ac72e5",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "1a6f818bdd80a57d7789d224800078bd9b430607f1f5a2ff61bd310aaf587ed9"
+  },
+  {
+   "path": "TESTING/droplets/poseidon/5_poseidon.csv",
+   "bytes": 37909,
+   "git_blob_sha": "aca262dddaab155e98b4b674c715dc82c5bb11b7",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "b5635342bfb0a567f745258f79fbd2c4d70d869faa31c982b3ac092a31a164cb"
+  },
+  {
+   "path": "TESTING/droplets/poseidon/poseidon.txt",
+   "bytes": 133257,
+   "git_blob_sha": "781163ce8d059bc01bf66f62fb09a56bdfba27ec",
+   "blob_match": true,
+   "lfs_pointer": false,
+   "sha256": "617f9b08ceb9d1937877c6f2f125ce31058294165e7d436b6067eae85aaf3ca1"
+  }
+ ],
+ "all_blob_match": true,
+ "lfs_pointers": []
+}
